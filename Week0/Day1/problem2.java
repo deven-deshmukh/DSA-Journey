@@ -19,5 +19,6 @@ public class problem2 {
         } else {
             System.out.println("Invalid username or password.");
         }
+        sc.close();
     }
 }
