@@ -14,7 +14,13 @@ public class problem1 {
         // System.out.println("Month: " + month + ", Year: " + year);
         int days;
         switch (month) {
-            case :
+            case 1:
+            case 3:
+            case 5:
+            case 7:
+            case 8:
+            case 10:
+            case 12:
                 days = 31;
                 break;
             case 2:
