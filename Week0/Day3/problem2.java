@@ -19,5 +19,6 @@ public class problem2 {
         // Write the solution
 
         // End of solution
+        sc.close();
     }
 }

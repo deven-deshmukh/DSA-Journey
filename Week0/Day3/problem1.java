@@ -23,5 +23,6 @@ public class problem1 {
             System.out.println(n + "it is prime");
 
         }
+        sc.close();
     }
 }
