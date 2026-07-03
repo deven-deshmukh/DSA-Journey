@@ -8,6 +8,7 @@ public class Problem1 {
         int n = sc.nextInt();
         boolean ans = isZero(n);
         System.out.println("Is " + n + " contain 0 at second position:-" + ans);
+        sc.close();
     }
 
     static boolean isZero(int n) {
@@ -16,9 +17,10 @@ public class Problem1 {
 
     static int abs(int n) {
         if (n < 0) {
-            return -n; 
+            return -n;
         } else {
-            return n; 
+            return n;
         }
     }
+    
 }
