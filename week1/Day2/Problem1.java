@@ -25,7 +25,6 @@ public class Problem1 {
         return true;
     }
 
-    }
 
     public static void main(String[] args) {
         // Test Case 1
