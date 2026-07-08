@@ -23,6 +23,7 @@ public class Problem1 {
                 count++;
             }
         }
-        System.out.println(count+" number are less than"+x);
+        System.out.println(count + " number are less than" + x);
+        sc.close();
     }
 }
